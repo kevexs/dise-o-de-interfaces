@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: rgba(133, 205, 18, 0.5);
+    color: rgb(255, 149, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  
+  p{
+      font-family: Arial, sans-serif; /* Cambia la fuente del texto */
+      font-size: 16px; /* Ajusta el tamaño del texto */
+      line-height: 1.5; /* Establece la altura de línea */
+      color: #333; /* Cambia el color del texto */
+      text-align: justify; /* Justifica el texto dentro del párrafo */
+      padding: 10px; /* Agrega un relleno interno para separar el texto del borde */
+      border: 1px solid #ccc; /* Agrega un borde alrededor del párrafo */
+      border-radius: 5px; /* Añade bordes redondeados para un aspecto más agradable */
+      box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3); /* Agrega una sombra alrededor del párrafo */
+    }
+  
+    p.Nombre1{
+      border-radius: 25px;
+      border-color: aqua;
+      box-shadow: #FF0000;
+    }
+  
+    div.Nombre1{
+    color: Blue;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 10px;
+    border: 1px solid #ff04dd;
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px rgba(243, 31, 31, 0.6);
+    }
+  
+    h1.Nombre1{
+      color: #FF0000; /* Valor hexadecimal */
+    }
+    
+    h2.Nombre1{
+      color: rgb(255, 0, 255); /* Valor RGB */
+    }
+  
+    span.Nombre1{
+      color: white;
+      border: red 3px dotted;
+    }
